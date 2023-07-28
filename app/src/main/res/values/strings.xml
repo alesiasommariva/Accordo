@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Accordo</string>
+    <string name="upload_image">upload imagine</string>
+    <string name="username">username</string>
+    <string name="save">save</string>
+    <string name="back">back</string>
+    <string name="error_field_required">This field is required!</string>
+    <string name="modify">change</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZWxpc2FiZXR0YXJvY2NoZXR0aSIsImEiOiJjazM0YXNidTYwZ3JvM25wajd6Z21lcG52In0._na-PLegy9OZ2nCpWo_DLQ</string>
+
+
+    <string name="title_home">Home</string>
+    <string name="title_user">User</string>
+    <string name="title_add_channel">New Channel</string>
+    <string name="title_add_post">New Post</string>
+    <string name="anonymous_user">Anonimous profilePicture</string>
+    <string name="shared_location">SHARED LOCATION</string>
+    <string name="utente_anonimo">Utente anonimo</string>
+    <string name="enter_new_channel_title">Enter new channel title</string>
+    <string name="title_channel">Title</string>
+    <string name="text_post">Text Post</string>
+    <string name="image_post">Image Post</string>
+    <string name="location_post">Location Post</string>
+    <string name="enter_here_your_text">Enter here your text:</string>
+    <string name="text">text</string>
+    <string name="post">post</string>
+    <string name="delete">delete</string>
+    <string name="user_location_permission_explanation">Location permission is needed!</string>
+    <string name="user_location_permission_not_granted">Location permission not granted</string>
+    <string name="add_new_channel">Add new channel</string>
+    <string name="add">Add</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
